@@ -1,0 +1,45 @@
+.fondo{
+    background-color:white;
+
+
+}
+.tabla1{
+    position: relative;
+    background-color: green;
+    height: 50px;
+    bottom: -40px;
+}
+.pedro{
+    position: relative;
+    width: 215px;
+    left: 100px;
+    bottom: -11px;
+}
+.pedro2{
+    position: relative;
+    width: 215px;
+    left: 300px;
+    bottom: -220px;
+}
+.piepa{
+    position: relative;
+    background-color: yellow;
+    height: 70px;
+    bottom: -500px;
+    text-align: center;
+    left: -120px;
+}
+.ultimaimg{
+    position: relative;
+    width: 250px;
+    left: 500px;
+    bottom: -460px;
+}
+.pedro222{
+    position: relative;
+    width: 250px;
+    left: 500px;
+    bottom: -460px;
+
+
+}
